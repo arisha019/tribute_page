@@ -1,0 +1,80 @@
+body {
+  padding: 10px;
+  background-image: url(https://th.bing.com/th/id/OIP.I_WOfWLy0-2kSCeYZFh6NAHaDT?w=312&h=156&c=7&o=5&dpr=1.5&pid=1.7);
+}
+.doc-title {
+  font-size: 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin-top: 40px;
+  /*text-decoration: underline;*/
+  text-decoration-color: cadetblue;
+}
+
+.text {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 25px;
+  border-bottom: 3px solid black;
+  padding-bottom: 10px;
+}
+.para-title {
+  font-size: 25px;
+  font-family: "Snell Roundhand";
+}
+
+.img-detail {
+  margin-top: 100px;
+  width: 400px;
+  height: 300px;
+  margin-bottom: 100px;
+}
+
+.information {
+  display: flex;
+  width: 100%;
+  align-items: stretch;
+  border-bottom: 1px solid black;
+}
+.bio-content {
+  margin-top: 90px;
+  line-height: 25px;
+}
+
+.section-half {
+  width: 35%;
+}
+.section-half2 {
+  width: 30%;
+}
+
+.info {
+  font-size: 90%;
+  font-family: "Dosis", sans-serif;
+
+  margin-bottom: 2em;
+  text-align: center;
+}
+
+.info td {
+  vertical-align: top;
+  border: 0;
+  border-bottom: 2px solid darkblue;
+  padding: 0.2em;
+}
+
+.saying {
+  font-family: cursive;
+  text-align: center;
+  font-size: 20px;
+}
+
+a {
+  color: gray;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: darkblue;
+}
